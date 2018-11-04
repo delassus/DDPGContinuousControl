@@ -31,9 +31,9 @@ Because we choose to model the solution as a DDPG algorithm, let us introduce it
 ## DDPG algorithm concept
 This is an algorithm that lies in between Value based methods and Policy based methods.
 While actor function  specifies action a given the current state of the environment s, critic value function specifies a TD Error to criticize the actions made by the actor.
+![Plot of rewards](CodeCogsEqn-gif)
 
-
-• Stochastic methods are of the form:    <img src="/tex/f00f806e896570bd0fcfc91b1f460b7b.svg?invert_in_darkmode&sanitize=true" align=middle width=123.52357875pt height=24.65753399999998pt/>]$
+• Stochastic methods are of the form:    ![equation1](CodeCogsEqn-gif)
 
 • Deterministic methods are of the form: <img src="http://latex.codecogs.com/gif.latex? \quad\Large \quad a = \mu_\theta(s)" border="0"/>
 
