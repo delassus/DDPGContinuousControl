@@ -33,7 +33,7 @@ This is an algorithm that lies in between Value based methods and Policy based m
 While actor function  specifies action a given the current state of the environment s, critic value function specifies a TD Error to criticize the actions made by the actor.
 
 
-• Stochastic methods are of the form:    $$ {\pi_\theta(a|s) = \mathbb{P}[a|s;\theta$]}$$ 
+• Stochastic methods are of the form:    $\pi_\theta(a|s) = \mathbb{P}[a|s;\theta$]$
 
 • Deterministic methods are of the form: <img src="http://latex.codecogs.com/gif.latex? \quad\Large \quad a = \mu_\theta(s)" border="0"/>
 
