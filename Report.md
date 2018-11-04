@@ -33,7 +33,7 @@ This is an algorithm that lies in between Value based methods and Policy based m
 While actor function  specifies action a given the current state of the environment s, critic value function specifies a TD Error to criticize the actions made by the actor.
 
 
-• Stochastic methods are of the form:    <p align="center"><img src="/tex/5af758a006b39c953f14cfe0da226200.svg?invert_in_darkmode&sanitize=true" align=middle width=411.8988159pt height=46.0273968pt/></p> 
+• Stochastic methods are of the form:    <img src="/tex/f00f806e896570bd0fcfc91b1f460b7b.svg?invert_in_darkmode&sanitize=true" align=middle width=123.52357875pt height=24.65753399999998pt/>]$
 
 • Deterministic methods are of the form: <img src="http://latex.codecogs.com/gif.latex? \quad\Large \quad a = \mu_\theta(s)" border="0"/>
 
