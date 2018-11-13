@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: reacher.png "Trained Agent" 
+[image1]: reacher.dms "Trained Agent" 
 ![Trained Agent][image1]
 
 # DDPG ContinuousControl
