@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: unity_reacher_ddpg_agent.gif.dms "Trained Agent" 
+[image1]: reacher.png "Trained Agent" 
 ![Trained Agent][image1]
 
 # DDPG ContinuousControl
